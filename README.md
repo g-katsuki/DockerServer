@@ -17,8 +17,13 @@
     ```
 
 4. **実行**:
-    
 
     ```bash
     curl http://localhost:9000/
+    ```
+
+5. **停止**:
+
+    ```bash
+    docker stop [ID]
     ```
